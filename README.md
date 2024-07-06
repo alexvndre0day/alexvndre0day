@@ -20,4 +20,31 @@
 <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+## 🤓 Projects & GitHub
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexvndre0day&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvndre0day&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+</details>
+
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=alexvndre0day&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📈 GitHub Streaks</b></summary>
+  <br />
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexvndre0day&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  </p>
+</details>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alexvndre0day&color=blueviolet&style=plastic" alt="alexvndre0day" /> </p>
