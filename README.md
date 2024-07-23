@@ -1,5 +1,5 @@
 <h1 align="center">Olá Mundo! 👋</h1>
-<h3 align="center">CyberSec/Front-End</h3>
+<h3 align="center">Front-End</h3>
 
 <h3>Sobre: </h3>
 
