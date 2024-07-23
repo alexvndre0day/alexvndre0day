@@ -7,7 +7,7 @@
 
 - 👨‍💻 Meus projetos: [github.com/alexvndre0day](https://github.com/alexvndre0day?tab=repositories)
 
-- 📫 Contato: **alexvndre4hon@gmail.com**
+- 📫 Contato: **null**
 
 ##
 <h3 align="left">Languages and Tools:</h3>
