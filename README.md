@@ -1,9 +1,8 @@
 <h1 align="center">Olá! 👋</h1>
-<h3 align="center">Estudante</h3>
 
 <h3>Sobre: </h3>
 
-- 🔭 Atualmente trabalhando em: []()
+- 🔭 Atualmente trabalhando em: [Estudante]()
 
 - 👨‍💻 Meus projetos: [github.com/alexvndre0day](https://github.com/alexvndre0day?tab=repositories)
 
