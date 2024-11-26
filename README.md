@@ -2,7 +2,7 @@
 
 <h3>Sobre: </h3>
 
-- 🔭 Atualmente trabalhando em: [Estudante]()
+- 🔭 Atualmente trabalhando em: []()
 
 - 👨‍💻 Meus projetos: [github.com/alexvndre0day](https://github.com/alexvndre0day?tab=repositories)
 
